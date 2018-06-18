@@ -1,0 +1,4 @@
+ROUTER: Takes 3 parameters. The first parameter is the url name. The second parameter, is what content will actually associated with that route.
+  PATH:
+  COMPONENT:
+  
